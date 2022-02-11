@@ -1,0 +1,5 @@
+npm install @material-ui/core @material-ui/icons @material-ui/lab
+
+npm install @react-google-maps/api
+
+npm install google-map-react
